@@ -11,8 +11,6 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("World is mine");
-            Console.WriteLine("Third Line in hotfix branch");
         }
     }
 }
