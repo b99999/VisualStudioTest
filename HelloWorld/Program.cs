@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
             Console.WriteLine("World is mine");
             Console.WriteLine("Third Line");
+            Console.WriteLine("Third Line in hotfix branch");
         }
     }
 }
